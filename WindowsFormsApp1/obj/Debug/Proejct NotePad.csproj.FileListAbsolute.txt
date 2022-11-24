@@ -1,0 +1,10 @@
+C:\Users\ISAAC\source\repos\ConsoleApp1\WindowsFormsApp1\obj\Debug\Proejct NotePad.csprojAssemblyReference.cache
+C:\Users\ISAAC\source\repos\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Notepad.resources
+C:\Users\ISAAC\source\repos\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ISAAC\source\repos\ConsoleApp1\WindowsFormsApp1\obj\Debug\Proejct NotePad.csproj.GenerateResource.cache
+C:\Users\ISAAC\source\repos\ConsoleApp1\WindowsFormsApp1\obj\Debug\Proejct NotePad.csproj.CoreCompileInputs.cache
+C:\Users\ISAAC\source\repos\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ISAAC\source\repos\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ISAAC\source\repos\ConsoleApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ISAAC\source\repos\ConsoleApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ISAAC\source\repos\ConsoleApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
