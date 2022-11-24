@@ -1,0 +1,6 @@
+C:\Users\ISAAC\source\repos\ConsoleApp1\project NotePad\obj\Debug\project NotePad.csprojAssemblyReference.cache
+C:\Users\ISAAC\source\repos\ConsoleApp1\project NotePad\obj\Debug\winForm.menuandtoolbar.resources
+C:\Users\ISAAC\source\repos\ConsoleApp1\project NotePad\obj\Debug\project_NotePad.Properties.Resources.resources
+C:\Users\ISAAC\source\repos\ConsoleApp1\project NotePad\obj\Debug\project NotePad.csproj.GenerateResource.cache
+C:\Users\ISAAC\source\repos\ConsoleApp1\project NotePad\obj\Debug\project NotePad.csproj.CoreCompileInputs.cache
+C:\Users\ISAAC\source\repos\ConsoleApp1\project NotePad\obj\Debug\project_NotePad.menuandtoolbar.resources

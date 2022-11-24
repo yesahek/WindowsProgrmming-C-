@@ -1,0 +1,10 @@
+C:\Users\ISAAC\source\repos\ConsoleApp1\project NotePad\obj\Debug\project_NotePad.csprojAssemblyReference.cache
+C:\Users\ISAAC\source\repos\ConsoleApp1\project NotePad\obj\Debug\project_NotePad.project_NotePad.resources
+C:\Users\ISAAC\source\repos\ConsoleApp1\project NotePad\obj\Debug\project_NotePad.Properties.Resources.resources
+C:\Users\ISAAC\source\repos\ConsoleApp1\project NotePad\obj\Debug\project_NotePad.csproj.GenerateResource.cache
+C:\Users\ISAAC\source\repos\ConsoleApp1\project NotePad\obj\Debug\project_NotePad.csproj.CoreCompileInputs.cache
+C:\Users\ISAAC\Desktop\project NotePad\obj\Debug\project_NotePad.csprojAssemblyReference.cache
+C:\Users\ISAAC\Desktop\project NotePad\obj\Debug\project_NotePad.project_NotePad.resources
+C:\Users\ISAAC\Desktop\project NotePad\obj\Debug\project_NotePad.Properties.Resources.resources
+C:\Users\ISAAC\Desktop\project NotePad\obj\Debug\project_NotePad.csproj.GenerateResource.cache
+C:\Users\ISAAC\Desktop\project NotePad\obj\Debug\project_NotePad.csproj.CoreCompileInputs.cache
